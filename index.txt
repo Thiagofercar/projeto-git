@@ -1,1 +1,1 @@
-Este é meu primeiro arquivo no repositório Git.
+Linha editada na branch MAIN
